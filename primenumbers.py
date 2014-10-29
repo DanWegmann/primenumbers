@@ -1,4 +1,4 @@
-#Dan Wegmann
+##Dan Wegmann
 #Prime Number calculator
 #calculates primes numbers up to N
 import math
